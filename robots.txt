@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erneseages.github.io/sitemap.html.gz
+Sitemap: https://erneseages.github.io/app/sitemap.html.gz
+Sitemap: https://erneseages.github.io/assets/sitemap.html.gz
+Sitemap: https://erneseages.github.io/css/sitemap.html.gz
+Sitemap: https://erneseages.github.io/data/sitemap.html.gz
+Sitemap: https://erneseages.github.io/includes/sitemap.html.gz
+Sitemap: https://erneseages.github.io/item/sitemap.html.gz
+Sitemap: https://erneseages.github.io/src/sitemap.html.gz
